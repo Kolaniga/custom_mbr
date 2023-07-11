@@ -7,4 +7,4 @@
 ; 3. input pass. if currect - loading OS. else - try again.
 
 
-password in code not in cleat text. It in CRC32
+password in code not in clear text. It in CRC32
