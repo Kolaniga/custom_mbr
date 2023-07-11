@@ -5,3 +5,6 @@
 ; 2. eject floopy and boot from hdd.
 
 ; 3. input pass. if currect - loading OS. else - try again.
+
+
+password in code not in cleat text. It in CRC32
